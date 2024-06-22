@@ -6,3 +6,4 @@ draft = false
 
 Hello world!
 ![my image](IMG_7605.jpeg)
+![my second image](/IMG_7605.jpeg)
