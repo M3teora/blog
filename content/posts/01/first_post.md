@@ -6,3 +6,6 @@ draft = false
 
 Hello world!
 *del img
+
+{{ $image := .Resources.Get "IMG_7605.jpg" }}
+

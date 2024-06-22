@@ -13,7 +13,8 @@
       <link>https://barov.me/posts/01/first_post/</link>
       <pubDate>Sat, 22 Jun 2024 22:41:34 +0300</pubDate>
       <guid>https://barov.me/posts/01/first_post/</guid>
-      <description>Hello world! *del img</description>
+      <description>Hello world! *del img
+{{ $image := .Resources.Get &amp;ldquo;IMG_7605.jpg&amp;rdquo; }}</description>
     </item>
   </channel>
 </rss>
