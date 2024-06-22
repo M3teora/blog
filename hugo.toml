@@ -2,3 +2,4 @@ baseURL = 'https://barov.me/'
 languageCode = 'en-us'
 title = 'my blog'
 theme = "PaperMod"
+defaultContentLanguage = 'ru'
