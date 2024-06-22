@@ -6,14 +6,14 @@
     <description>Recent content on my blog</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jun 2024 23:13:02 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 22:41:34 +0300</lastBuildDate>
     <atom:link href="https://barov.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>01</title>
-      <link>https://barov.me/posts/01/</link>
-      <pubDate>Sat, 22 Jun 2024 23:13:02 +0300</pubDate>
-      <guid>https://barov.me/posts/01/</guid>
-      <description></description>
+      <title>First_post</title>
+      <link>https://barov.me/posts/01/first_post/</link>
+      <pubDate>Sat, 22 Jun 2024 22:41:34 +0300</pubDate>
+      <guid>https://barov.me/posts/01/first_post/</guid>
+      <description>Hello world! </description>
     </item>
   </channel>
 </rss>
