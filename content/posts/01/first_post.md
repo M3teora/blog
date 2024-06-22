@@ -5,5 +5,4 @@ draft = false
 +++
 
 Hello world!
-![my image](/img/IMG_7605.jpeg)
-![my second image](/static/img/IMG_7605.jpeg)
+*del img
