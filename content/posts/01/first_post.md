@@ -5,4 +5,4 @@ draft = false
 +++
 
 Hello world!
-![my image](01/IMG_7605.jpeg)
+![my image](IMG_7605.jpeg)
