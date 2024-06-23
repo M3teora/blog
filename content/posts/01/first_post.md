@@ -6,7 +6,5 @@ description = "Тут могла быть ваша реклама, но этот
 +++
 
 Hello world!
-*del img
-
-{{ $image := .Resources.Get "IMG_7605.jpg" }}
-
+![My very first image](IMG_7605.jpeg)
+![alt text](IMG_7605.jpeg)
