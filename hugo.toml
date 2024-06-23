@@ -3,3 +3,9 @@ languageCode = 'en-us'
 title = 'ex0ad1'
 theme = "PaperMod"
 defaultContentLanguage = 'ru'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
