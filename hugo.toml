@@ -3,3 +3,4 @@ languageCode = 'en-us'
 title = 'ex0ad1'
 theme = "PaperMod"
 defaultContentLanguage = 'ru'
+enableRobotsTXT = true
