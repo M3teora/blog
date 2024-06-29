@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ex0ad1</title>
-    <link>https://barov.me/</link>
-    <description>Recent content on ex0ad1</description>
+    <title>Dnd on ex0ad1</title>
+    <link>https://barov.me/tags/dnd/</link>
+    <description>Recent content in Dnd on ex0ad1</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Jun 2024 00:00:32 +0300</lastBuildDate>
-    <atom:link href="https://barov.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://barov.me/tags/dnd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Магический кризис. Пролог.</title>
       <link>https://barov.me/posts/02/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:32 +0300</pubDate>
       <guid>https://barov.me/posts/02/</guid>
       <description>Начало истории магического кризиса, глазами эльфа Адена Мидвея</description>
-    </item>
-    <item>
-      <title>Первый пост в блоге</title>
-      <link>https://barov.me/posts/01/</link>
-      <pubDate>Sat, 22 Jun 2024 22:41:34 +0300</pubDate>
-      <guid>https://barov.me/posts/01/</guid>
-      <description>Тут могла быть ваша реклама, но этот блог никто не читает поэтому и рекламы тут нет</description>
     </item>
   </channel>
 </rss>
